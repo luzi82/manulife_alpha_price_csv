@@ -1,4 +1,4 @@
-﻿Name of Investment Choice,Date,Currency,Purchase Price,Unit Sell Price
+Name of Investment Choice,Date,Currency,Purchase Price,Unit Sell Price
 MIL STARS Income and Growth Fund #,2020/09/07,USD,1.0000,1.0000
 MIL STARS Income and Growth Fund #,2020/09/08,USD,1.0000,1.0000
 MIL STARS Income and Growth Fund #,2020/09/09,USD,1.0000,1.0000
@@ -92,7 +92,7 @@ MIL STARS Income and Growth Fund #,2021/01/18,USD,1.1070,1.1070
 MIL STARS Income and Growth Fund #,2021/01/19,USD,1.1140,1.1140
 MIL STARS Income and Growth Fund #,2021/01/20,USD,1.1230,1.1230
 MIL STARS Income and Growth Fund #,2021/01/21,USD,1.1250,1.1250
-MIL STARS Income and Growth Fund #,2021/01/22,USD,1.1190,1.1190
+MIL STARS Income and Growth Fund # +,2021/01/22,USD,1.1190,1.1190
 MIL STARS Income and Growth Fund #,2021/01/25,USD,1.1260,1.1260
 MIL STARS Income and Growth Fund #,2021/01/26,USD,1.1180,1.1180
 MIL STARS Income and Growth Fund #,2021/01/27,USD,1.1100,1.1100
@@ -110,5 +110,3 @@ MIL STARS Income and Growth Fund #,2021/02/11,USD,1.1330,1.1330
 MIL STARS Income and Growth Fund #,2021/02/16,USD,1.1370,1.1370
 MIL STARS Income and Growth Fund #,2021/02/17,USD,1.1360,1.1360
 MIL STARS Income and Growth Fund #,2021/02/18,USD,1.1290,1.1290
-
-

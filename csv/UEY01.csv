@@ -1,4 +1,4 @@
-﻿Name of Investment Choice,Date,Currency,Purchase Price,Unit Sell Price
+Name of Investment Choice,Date,Currency,Purchase Price,Unit Sell Price
 MIL UBS Euro High Yield Bond Fund ,2013/12/12,USD,1.0000,1.0000
 MIL UBS Euro High Yield Bond Fund ,2013/12/13,USD,1.0000,1.0000
 MIL UBS Euro High Yield Bond Fund ,2013/12/16,USD,1.0000,1.0000
@@ -1750,7 +1750,7 @@ MIL UBS Euro High Yield Bond Fund ,2021/01/18,USD,1.2580,1.2580
 MIL UBS Euro High Yield Bond Fund ,2021/01/19,USD,1.2590,1.2590
 MIL UBS Euro High Yield Bond Fund ,2021/01/20,USD,1.2620,1.2620
 MIL UBS Euro High Yield Bond Fund ,2021/01/21,USD,1.2640,1.2640
-MIL UBS Euro High Yield Bond Fund ,2021/01/22,USD,1.2630,1.2630
+MIL UBS Euro High Yield Bond Fund,2021/01/22,USD,1.2630,1.2630
 MIL UBS Euro High Yield Bond Fund ,2021/01/25,USD,1.2610,1.2610
 MIL UBS Euro High Yield Bond Fund ,2021/01/26,USD,1.2750,1.2750
 MIL UBS Euro High Yield Bond Fund ,2021/01/27,USD,1.2590,1.2590
@@ -1768,5 +1768,3 @@ MIL UBS Euro High Yield Bond Fund ,2021/02/11,USD,1.2700,1.2700
 MIL UBS Euro High Yield Bond Fund ,2021/02/16,USD,1.2710,1.2710
 MIL UBS Euro High Yield Bond Fund ,2021/02/17,USD,1.2710,1.2710
 MIL UBS Euro High Yield Bond Fund ,2021/02/18,USD,1.2710,1.2710
-
-

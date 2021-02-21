@@ -1,4 +1,4 @@
-﻿Name of Investment Choice,Date,Currency,Purchase Price,Unit Sell Price
+Name of Investment Choice,Date,Currency,Purchase Price,Unit Sell Price
 MIL AllianceBernstein American Income Fund ,2019/08/12,USD,1.0000,1.0000
 MIL AllianceBernstein American Income Fund ,2019/08/13,USD,1.0000,1.0000
 MIL AllianceBernstein American Income Fund ,2019/08/14,USD,1.0000,1.0000
@@ -359,7 +359,7 @@ MIL AllianceBernstein American Income Fund ,2021/01/18,USD,1.0400,1.0400
 MIL AllianceBernstein American Income Fund ,2021/01/19,USD,1.0410,1.0410
 MIL AllianceBernstein American Income Fund ,2021/01/20,USD,1.0420,1.0420
 MIL AllianceBernstein American Income Fund ,2021/01/21,USD,1.0420,1.0420
-MIL AllianceBernstein American Income Fund ,2021/01/22,USD,1.0420,1.0420
+MIL AllianceBernstein American Income Fund,2021/01/22,USD,1.0420,1.0420
 MIL AllianceBernstein American Income Fund ,2021/01/25,USD,1.0430,1.0430
 MIL AllianceBernstein American Income Fund ,2021/01/26,USD,1.0430,1.0430
 MIL AllianceBernstein American Income Fund ,2021/01/27,USD,1.0420,1.0420
@@ -377,5 +377,3 @@ MIL AllianceBernstein American Income Fund ,2021/02/11,USD,1.0460,1.0460
 MIL AllianceBernstein American Income Fund ,2021/02/16,USD,1.0420,1.0420
 MIL AllianceBernstein American Income Fund ,2021/02/17,USD,1.0420,1.0420
 MIL AllianceBernstein American Income Fund ,2021/02/18,USD,1.0420,1.0420
-
-

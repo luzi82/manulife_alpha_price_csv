@@ -1,4 +1,4 @@
-﻿Name of Investment Choice,Date,Currency,Purchase Price,Unit Sell Price
+Name of Investment Choice,Date,Currency,Purchase Price,Unit Sell Price
 MIL All-weather Growth Plus Fund ,2016/09/12,USD,1.0000,1.0000
 MIL All-weather Growth Plus Fund ,2016/09/13,USD,1.0000,1.0000
 MIL All-weather Growth Plus Fund ,2016/09/14,USD,1.0000,1.0000
@@ -1074,7 +1074,7 @@ MIL All-weather Growth Plus Fund ,2021/01/18,USD,1.2540,1.2540
 MIL All-weather Growth Plus Fund ,2021/01/19,USD,1.2660,1.2660
 MIL All-weather Growth Plus Fund ,2021/01/20,USD,1.2810,1.2810
 MIL All-weather Growth Plus Fund ,2021/01/21,USD,1.2840,1.2840
-MIL All-weather Growth Plus Fund ,2021/01/22,USD,1.2780,1.2780
+MIL All-weather Growth Plus Fund,2021/01/22,USD,1.2780,1.2780
 MIL All-weather Growth Plus Fund ,2021/01/25,USD,1.2800,1.2800
 MIL All-weather Growth Plus Fund ,2021/01/26,USD,1.2720,1.2720
 MIL All-weather Growth Plus Fund ,2021/01/27,USD,1.2430,1.2430
@@ -1092,5 +1092,3 @@ MIL All-weather Growth Plus Fund ,2021/02/11,USD,1.3060,1.3060
 MIL All-weather Growth Plus Fund ,2021/02/16,USD,1.3150,1.3150
 MIL All-weather Growth Plus Fund ,2021/02/17,USD,1.3100,1.3100
 MIL All-weather Growth Plus Fund ,2021/02/18,USD,1.3000,1.3000
-
-

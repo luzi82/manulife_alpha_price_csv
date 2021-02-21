@@ -1,4 +1,4 @@
-﻿Name of Investment Choice,Date,Currency,Purchase Price,Unit Sell Price
+Name of Investment Choice,Date,Currency,Purchase Price,Unit Sell Price
 MIL Jupiter Global Convertibles Fund ,2013/04/17,USD,1.0000,1.0000
 MIL Jupiter Global Convertibles Fund ,2013/04/18,USD,1.0000,1.0000
 MIL Jupiter Global Convertibles Fund ,2013/04/19,USD,1.0000,1.0000
@@ -1913,7 +1913,7 @@ MIL Jupiter Global Convertibles Fund ,2021/01/18,USD,1.2590,1.2590
 MIL Jupiter Global Convertibles Fund ,2021/01/19,USD,1.2640,1.2640
 MIL Jupiter Global Convertibles Fund ,2021/01/20,USD,1.2700,1.2700
 MIL Jupiter Global Convertibles Fund ,2021/01/21,USD,1.2730,1.2730
-MIL Jupiter Global Convertibles Fund ,2021/01/22,USD,1.2720,1.2720
+MIL Jupiter Global Convertibles Fund,2021/01/22,USD,1.2720,1.2720
 MIL Jupiter Global Convertibles Fund ,2021/01/25,USD,1.2730,1.2730
 MIL Jupiter Global Convertibles Fund ,2021/01/26,USD,1.2660,1.2660
 MIL Jupiter Global Convertibles Fund ,2021/01/27,USD,1.2600,1.2600
@@ -1931,5 +1931,3 @@ MIL Jupiter Global Convertibles Fund ,2021/02/11,USD,1.3030,1.3030
 MIL Jupiter Global Convertibles Fund ,2021/02/16,USD,1.3180,1.3180
 MIL Jupiter Global Convertibles Fund ,2021/02/17,USD,1.3140,1.3140
 MIL Jupiter Global Convertibles Fund ,2021/02/18,USD,1.3100,1.3100
-
-

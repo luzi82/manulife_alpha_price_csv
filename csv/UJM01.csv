@@ -1,4 +1,4 @@
-﻿Name of Investment Choice,Date,Currency,Purchase Price,Unit Sell Price
+Name of Investment Choice,Date,Currency,Purchase Price,Unit Sell Price
 MIL JPMorgan Multi Income Fund ,2013/04/17,USD,1.0000,1.0000
 MIL JPMorgan Multi Income Fund ,2013/04/18,USD,1.0000,1.0000
 MIL JPMorgan Multi Income Fund ,2013/04/19,USD,1.0000,1.0000
@@ -1913,7 +1913,7 @@ MIL JPMorgan Multi Income Fund ,2021/01/18,USD,1.2560,1.2560
 MIL JPMorgan Multi Income Fund ,2021/01/19,USD,1.2590,1.2590
 MIL JPMorgan Multi Income Fund ,2021/01/20,USD,1.2620,1.2620
 MIL JPMorgan Multi Income Fund ,2021/01/21,USD,1.2620,1.2620
-MIL JPMorgan Multi Income Fund ,2021/01/22,USD,1.2570,1.2570
+MIL JPMorgan Multi Income Fund,2021/01/22,USD,1.2570,1.2570
 MIL JPMorgan Multi Income Fund ,2021/01/25,USD,1.2590,1.2590
 MIL JPMorgan Multi Income Fund ,2021/01/26,USD,1.2570,1.2570
 MIL JPMorgan Multi Income Fund ,2021/01/27,USD,1.2500,1.2500
@@ -1931,5 +1931,3 @@ MIL JPMorgan Multi Income Fund ,2021/02/11,USD,1.2650,1.2650
 MIL JPMorgan Multi Income Fund ,2021/02/16,USD,1.2670,1.2670
 MIL JPMorgan Multi Income Fund ,2021/02/17,USD,1.2690,1.2690
 MIL JPMorgan Multi Income Fund ,2021/02/18,USD,1.2640,1.2640
-
-
