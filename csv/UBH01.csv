@@ -1,16 +1,123 @@
-Name of Investment Choice,Date,Currency,Purchase Price,Unit Sell Price
-MIL BlackRock World Healthscience Fund +,2022/02/10,USD,1.0000,1.0000
-MIL BlackRock World Healthscience Fund +,2022/02/11,USD,1.0000,1.0000
-MIL BlackRock World Healthscience Fund +,2022/02/14,USD,1.0000,1.0000
-MIL BlackRock World Healthscience Fund +,2022/02/15,USD,1.0000,1.0000
-MIL BlackRock World Healthscience Fund +,2022/02/16,USD,1.0000,1.0000
-MIL BlackRock World Healthscience Fund +,2022/02/17,USD,0.9950,0.9950
-MIL BlackRock World Healthscience Fund +,2022/02/18,USD,0.9950,0.9950
-MIL BlackRock World Healthscience Fund +,2022/02/21,USD,0.9930,0.9930
-MIL BlackRock World Healthscience Fund +,2022/02/22,USD,0.9970,0.9970
-MIL BlackRock World Healthscience Fund +,2022/02/23,USD,0.9980,0.9980
-MIL BlackRock World Healthscience Fund +,2022/02/24,USD,0.9790,0.9790
-MIL BlackRock World Healthscience Fund +,2022/02/25,USD,0.9960,0.9960
-MIL BlackRock World Healthscience Fund +,2022/02/28,USD,1.0020,1.0020
-MIL BlackRock World Healthscience Fund +,2022/03/01,USD,1.0060,1.0060
-MIL BlackRock World Healthscience Fund +,2022/03/02,USD,1.0050,1.0050
+Investment choice name,Date,Currency,NAV / unit
+MIL BlackRock World Healthscience Fund,2022-02-10,USD,1.0000
+MIL BlackRock World Healthscience Fund,2022-02-11,USD,1.0000
+MIL BlackRock World Healthscience Fund,2022-02-14,USD,1.0000
+MIL BlackRock World Healthscience Fund,2022-02-15,USD,1.0000
+MIL BlackRock World Healthscience Fund,2022-02-16,USD,1.0000
+MIL BlackRock World Healthscience Fund,2022-02-17,USD,0.9950
+MIL BlackRock World Healthscience Fund,2022-02-18,USD,0.9950
+MIL BlackRock World Healthscience Fund,2022-02-21,USD,0.9930
+MIL BlackRock World Healthscience Fund,2022-02-22,USD,0.9970
+MIL BlackRock World Healthscience Fund,2022-02-23,USD,0.9980
+MIL BlackRock World Healthscience Fund,2022-02-24,USD,0.9790
+MIL BlackRock World Healthscience Fund,2022-02-25,USD,0.9960
+MIL BlackRock World Healthscience Fund,2022-02-28,USD,1.0020
+MIL BlackRock World Healthscience Fund,2022-03-01,USD,1.0060
+MIL BlackRock World Healthscience Fund,2022-03-02,USD,1.0050
+MIL BlackRock World Healthscience Fund,2022-03-03,USD,1.0130
+MIL BlackRock World Healthscience Fund,2022-03-04,USD,0.9990
+MIL BlackRock World Healthscience Fund,2022-03-07,USD,1.0000
+MIL BlackRock World Healthscience Fund,2022-03-08,USD,0.9860
+MIL BlackRock World Healthscience Fund,2022-03-09,USD,0.9910
+MIL BlackRock World Healthscience Fund,2022-03-10,USD,0.9950
+MIL BlackRock World Healthscience Fund,2022-03-11,USD,1.0010
+MIL BlackRock World Healthscience Fund,2022-03-14,USD,1.0020
+MIL BlackRock World Healthscience Fund,2022-03-15,USD,0.9980
+MIL BlackRock World Healthscience Fund,2022-03-16,USD,1.0130
+MIL BlackRock World Healthscience Fund,2022-03-17,USD,1.0240
+MIL BlackRock World Healthscience Fund,2022-03-18,USD,1.0320
+MIL BlackRock World Healthscience Fund,2022-03-21,USD,1.0380
+MIL BlackRock World Healthscience Fund,2022-03-22,USD,1.0360
+MIL BlackRock World Healthscience Fund,2022-03-23,USD,1.0280
+MIL BlackRock World Healthscience Fund,2022-03-24,USD,1.0290
+MIL BlackRock World Healthscience Fund,2022-03-25,USD,1.0370
+MIL BlackRock World Healthscience Fund,2022-03-28,USD,1.0390
+MIL BlackRock World Healthscience Fund,2022-03-29,USD,1.0510
+MIL BlackRock World Healthscience Fund,2022-03-30,USD,1.0550
+MIL BlackRock World Healthscience Fund,2022-03-31,USD,1.0540
+MIL BlackRock World Healthscience Fund,2022-04-01,USD,1.0460
+MIL BlackRock World Healthscience Fund,2022-04-04,USD,1.0480
+MIL BlackRock World Healthscience Fund,2022-04-06,USD,1.0530
+MIL BlackRock World Healthscience Fund,2022-04-07,USD,1.0730
+MIL BlackRock World Healthscience Fund,2022-04-08,USD,1.0820
+MIL BlackRock World Healthscience Fund,2022-04-11,USD,1.0810
+MIL BlackRock World Healthscience Fund,2022-04-12,USD,1.0690
+MIL BlackRock World Healthscience Fund,2022-04-13,USD,1.0620
+MIL BlackRock World Healthscience Fund,2022-04-14,USD,1.0690
+MIL BlackRock World Healthscience Fund,2022-04-19,USD,1.0580
+MIL BlackRock World Healthscience Fund,2022-04-20,USD,1.0620
+MIL BlackRock World Healthscience Fund,2022-04-21,USD,1.0720
+MIL BlackRock World Healthscience Fund,2022-04-22,USD,1.0410
+MIL BlackRock World Healthscience Fund,2022-04-25,USD,1.0160
+MIL BlackRock World Healthscience Fund,2022-04-26,USD,1.0280
+MIL BlackRock World Healthscience Fund,2022-04-27,USD,1.0190
+MIL BlackRock World Healthscience Fund,2022-04-28,USD,1.0170
+MIL BlackRock World Healthscience Fund,2022-04-29,USD,1.0200
+MIL BlackRock World Healthscience Fund,2022-05-03,USD,1.0010
+MIL BlackRock World Healthscience Fund,2022-05-04,USD,0.9920
+MIL BlackRock World Healthscience Fund,2022-05-05,USD,1.0090
+MIL BlackRock World Healthscience Fund,2022-05-06,USD,0.9860
+MIL BlackRock World Healthscience Fund,2022-05-10,USD,0.9800
+MIL BlackRock World Healthscience Fund,2022-05-11,USD,0.9760
+MIL BlackRock World Healthscience Fund,2022-05-12,USD,0.9590
+MIL BlackRock World Healthscience Fund,2022-05-13,USD,0.9750
+MIL BlackRock World Healthscience Fund,2022-05-16,USD,0.9810
+MIL BlackRock World Healthscience Fund,2022-05-17,USD,0.9930
+MIL BlackRock World Healthscience Fund,2022-05-18,USD,0.9880
+MIL BlackRock World Healthscience Fund,2022-05-19,USD,0.9700
+MIL BlackRock World Healthscience Fund,2022-05-20,USD,0.9920
+MIL BlackRock World Healthscience Fund,2022-05-23,USD,1.0010
+MIL BlackRock World Healthscience Fund,2022-05-24,USD,1.0020
+MIL BlackRock World Healthscience Fund,2022-05-25,USD,1.0050
+MIL BlackRock World Healthscience Fund,2022-05-26,USD,1.0050
+MIL BlackRock World Healthscience Fund,2022-05-27,USD,1.0120
+MIL BlackRock World Healthscience Fund,2022-05-30,USD,1.0190
+MIL BlackRock World Healthscience Fund,2022-05-31,USD,1.0040
+MIL BlackRock World Healthscience Fund,2022-06-01,USD,1.0000
+MIL BlackRock World Healthscience Fund,2022-06-02,USD,0.9820
+MIL BlackRock World Healthscience Fund,2022-06-06,USD,0.9820
+MIL BlackRock World Healthscience Fund,2022-06-07,USD,0.9900
+MIL BlackRock World Healthscience Fund,2022-06-08,USD,0.9990
+MIL BlackRock World Healthscience Fund,2022-06-09,USD,0.9940
+MIL BlackRock World Healthscience Fund,2022-06-10,USD,0.9630
+MIL BlackRock World Healthscience Fund,2022-06-13,USD,0.9430
+MIL BlackRock World Healthscience Fund,2022-06-14,USD,0.9330
+MIL BlackRock World Healthscience Fund,2022-06-15,USD,0.9330
+MIL BlackRock World Healthscience Fund,2022-06-16,USD,0.9190
+MIL BlackRock World Healthscience Fund,2022-06-17,USD,0.9350
+MIL BlackRock World Healthscience Fund,2022-06-20,USD,0.9290
+MIL BlackRock World Healthscience Fund,2022-06-21,USD,0.9440
+MIL BlackRock World Healthscience Fund,2022-06-22,USD,0.9550
+MIL BlackRock World Healthscience Fund,2022-06-23,USD,0.9550
+MIL BlackRock World Healthscience Fund,2022-06-24,USD,0.9860
+MIL BlackRock World Healthscience Fund,2022-06-27,USD,0.9940
+MIL BlackRock World Healthscience Fund,2022-06-28,USD,0.9990
+MIL BlackRock World Healthscience Fund,2022-06-29,USD,0.9880
+MIL BlackRock World Healthscience Fund,2022-06-30,USD,0.9820
+MIL BlackRock World Healthscience Fund,2022-07-04,USD,0.9980
+MIL BlackRock World Healthscience Fund,2022-07-05,USD,0.9820
+MIL BlackRock World Healthscience Fund,2022-07-06,USD,0.9950
+MIL BlackRock World Healthscience Fund,2022-07-07,USD,1.0020
+MIL BlackRock World Healthscience Fund,2022-07-08,USD,1.0010
+MIL BlackRock World Healthscience Fund,2022-07-11,USD,1.0000
+MIL BlackRock World Healthscience Fund,2022-07-12,USD,0.9980
+MIL BlackRock World Healthscience Fund,2022-07-13,USD,0.9850
+MIL BlackRock World Healthscience Fund,2022-07-14,USD,0.9680
+MIL BlackRock World Healthscience Fund,2022-07-15,USD,0.9900
+MIL BlackRock World Healthscience Fund,2022-07-18,USD,0.9980
+MIL BlackRock World Healthscience Fund,2022-07-19,USD,0.9960
+MIL BlackRock World Healthscience Fund,2022-07-20,USD,0.9910
+MIL BlackRock World Healthscience Fund,2022-07-21,USD,0.9920
+MIL BlackRock World Healthscience Fund,2022-07-22,USD,1.0010
+MIL BlackRock World Healthscience Fund,2022-07-25,USD,1.0010
+MIL BlackRock World Healthscience Fund,2022-07-26,USD,1.0030
+MIL BlackRock World Healthscience Fund,2022-07-27,USD,1.0030
+MIL BlackRock World Healthscience Fund,2022-07-28,USD,0.9980
+MIL BlackRock World Healthscience Fund,2022-07-29,USD,1.0050
+MIL BlackRock World Healthscience Fund,2022-08-01,USD,1.0070
+MIL BlackRock World Healthscience Fund,2022-08-02,USD,1.0040
+MIL BlackRock World Healthscience Fund,2022-08-03,USD,1.0030
+MIL BlackRock World Healthscience Fund,2022-08-04,USD,1.0040
+MIL BlackRock World Healthscience Fund,2022-08-05,USD,0.9960
+MIL BlackRock World Healthscience Fund,2022-08-08,USD,1.0030
+MIL BlackRock World Healthscience Fund,2022-08-09,USD,1.0060

@@ -1,16 +1,124 @@
-Name of Investment Choice,Date,Currency,Purchase Price,Unit Sell Price
-MIL Franklin Biotechnology Discovery Fund +,2022/02/10,USD,1.0000,1.0000
-MIL Franklin Biotechnology Discovery Fund +,2022/02/11,USD,1.0000,1.0000
-MIL Franklin Biotechnology Discovery Fund +,2022/02/14,USD,1.0000,1.0000
-MIL Franklin Biotechnology Discovery Fund +,2022/02/15,USD,1.0000,1.0000
-MIL Franklin Biotechnology Discovery Fund +,2022/02/16,USD,0.9890,0.9890
-MIL Franklin Biotechnology Discovery Fund +,2022/02/17,USD,0.9820,0.9820
-MIL Franklin Biotechnology Discovery Fund +,2022/02/18,USD,0.9790,0.9790
-MIL Franklin Biotechnology Discovery Fund +,2022/02/21,USD,0.9700,0.9700
-MIL Franklin Biotechnology Discovery Fund +,2022/02/22,USD,0.9750,0.9750
-MIL Franklin Biotechnology Discovery Fund +,2022/02/23,USD,0.9670,0.9670
-MIL Franklin Biotechnology Discovery Fund +,2022/02/24,USD,0.9740,0.9740
-MIL Franklin Biotechnology Discovery Fund +,2022/02/25,USD,0.9900,0.9900
-MIL Franklin Biotechnology Discovery Fund +,2022/02/28,USD,0.9920,0.9920
-MIL Franklin Biotechnology Discovery Fund +,2022/03/01,USD,0.9880,0.9880
-MIL Franklin Biotechnology Discovery Fund +,2022/03/02,USD,0.9940,0.9940
+Investment choice name,Date,Currency,NAV / unit
+MIL Franklin Biotechnology Discovery Fund,2022-02-10,USD,1.0000
+MIL Franklin Biotechnology Discovery Fund,2022-02-11,USD,1.0000
+MIL Franklin Biotechnology Discovery Fund,2022-02-14,USD,1.0000
+MIL Franklin Biotechnology Discovery Fund,2022-02-15,USD,1.0000
+MIL Franklin Biotechnology Discovery Fund,2022-02-16,USD,0.9890
+MIL Franklin Biotechnology Discovery Fund,2022-02-17,USD,0.9820
+MIL Franklin Biotechnology Discovery Fund,2022-02-18,USD,0.9790
+MIL Franklin Biotechnology Discovery Fund,2022-02-21,USD,0.9700
+MIL Franklin Biotechnology Discovery Fund,2022-02-22,USD,0.9750
+MIL Franklin Biotechnology Discovery Fund,2022-02-23,USD,0.9670
+MIL Franklin Biotechnology Discovery Fund,2022-02-24,USD,0.9740
+MIL Franklin Biotechnology Discovery Fund,2022-02-25,USD,0.9900
+MIL Franklin Biotechnology Discovery Fund,2022-02-28,USD,0.9920
+MIL Franklin Biotechnology Discovery Fund,2022-03-01,USD,0.9880
+MIL Franklin Biotechnology Discovery Fund,2022-03-02,USD,0.9940
+MIL Franklin Biotechnology Discovery Fund,2022-03-03,USD,0.9760
+MIL Franklin Biotechnology Discovery Fund,2022-03-04,USD,0.9640
+MIL Franklin Biotechnology Discovery Fund,2022-03-07,USD,0.9560
+MIL Franklin Biotechnology Discovery Fund,2022-03-08,USD,0.9600
+MIL Franklin Biotechnology Discovery Fund,2022-03-09,USD,0.9840
+MIL Franklin Biotechnology Discovery Fund,2022-03-10,USD,0.9790
+MIL Franklin Biotechnology Discovery Fund,2022-03-11,USD,0.9630
+MIL Franklin Biotechnology Discovery Fund,2022-03-14,USD,0.9540
+MIL Franklin Biotechnology Discovery Fund,2022-03-15,USD,0.9630
+MIL Franklin Biotechnology Discovery Fund,2022-03-16,USD,0.9900
+MIL Franklin Biotechnology Discovery Fund,2022-03-17,USD,1.0090
+MIL Franklin Biotechnology Discovery Fund,2022-03-18,USD,1.0220
+MIL Franklin Biotechnology Discovery Fund,2022-03-21,USD,1.0070
+MIL Franklin Biotechnology Discovery Fund,2022-03-22,USD,1.0270
+MIL Franklin Biotechnology Discovery Fund,2022-03-23,USD,1.0080
+MIL Franklin Biotechnology Discovery Fund,2022-03-24,USD,1.0210
+MIL Franklin Biotechnology Discovery Fund,2022-03-25,USD,1.0100
+MIL Franklin Biotechnology Discovery Fund,2022-03-28,USD,1.0100
+MIL Franklin Biotechnology Discovery Fund,2022-03-29,USD,1.0280
+MIL Franklin Biotechnology Discovery Fund,2022-03-30,USD,1.0130
+MIL Franklin Biotechnology Discovery Fund,2022-03-31,USD,1.0150
+MIL Franklin Biotechnology Discovery Fund,2022-04-01,USD,1.0380
+MIL Franklin Biotechnology Discovery Fund,2022-04-04,USD,1.0520
+MIL Franklin Biotechnology Discovery Fund,2022-04-06,USD,1.0530
+MIL Franklin Biotechnology Discovery Fund,2022-04-07,USD,1.0590
+MIL Franklin Biotechnology Discovery Fund,2022-04-08,USD,1.0580
+MIL Franklin Biotechnology Discovery Fund,2022-04-11,USD,1.0350
+MIL Franklin Biotechnology Discovery Fund,2022-04-12,USD,1.0330
+MIL Franklin Biotechnology Discovery Fund,2022-04-13,USD,1.0530
+MIL Franklin Biotechnology Discovery Fund,2022-04-14,USD,1.0440
+MIL Franklin Biotechnology Discovery Fund,2022-04-19,USD,1.0230
+MIL Franklin Biotechnology Discovery Fund,2022-04-20,USD,1.0250
+MIL Franklin Biotechnology Discovery Fund,2022-04-21,USD,0.9990
+MIL Franklin Biotechnology Discovery Fund,2022-04-22,USD,0.9770
+MIL Franklin Biotechnology Discovery Fund,2022-04-25,USD,0.9890
+MIL Franklin Biotechnology Discovery Fund,2022-04-26,USD,0.9500
+MIL Franklin Biotechnology Discovery Fund,2022-04-27,USD,0.9440
+MIL Franklin Biotechnology Discovery Fund,2022-04-28,USD,0.9430
+MIL Franklin Biotechnology Discovery Fund,2022-04-29,USD,0.9240
+MIL Franklin Biotechnology Discovery Fund,2022-05-03,USD,0.9350
+MIL Franklin Biotechnology Discovery Fund,2022-05-04,USD,0.9430
+MIL Franklin Biotechnology Discovery Fund,2022-05-05,USD,0.9110
+MIL Franklin Biotechnology Discovery Fund,2022-05-06,USD,0.8730
+MIL Franklin Biotechnology Discovery Fund,2022-05-10,USD,0.8520
+MIL Franklin Biotechnology Discovery Fund,2022-05-11,USD,0.8240
+MIL Franklin Biotechnology Discovery Fund,2022-05-12,USD,0.8410
+MIL Franklin Biotechnology Discovery Fund,2022-05-13,USD,0.8740
+MIL Franklin Biotechnology Discovery Fund,2022-05-16,USD,0.8820
+MIL Franklin Biotechnology Discovery Fund,2022-05-17,USD,0.9030
+MIL Franklin Biotechnology Discovery Fund,2022-05-18,USD,0.8800
+MIL Franklin Biotechnology Discovery Fund,2022-05-19,USD,0.8860
+MIL Franklin Biotechnology Discovery Fund,2022-05-20,USD,0.8940
+MIL Franklin Biotechnology Discovery Fund,2022-05-23,USD,0.8940
+MIL Franklin Biotechnology Discovery Fund,2022-05-24,USD,0.8810
+MIL Franklin Biotechnology Discovery Fund,2022-05-25,USD,0.8830
+MIL Franklin Biotechnology Discovery Fund,2022-05-26,USD,0.8880
+MIL Franklin Biotechnology Discovery Fund,2022-05-27,USD,0.8930
+MIL Franklin Biotechnology Discovery Fund,2022-05-30,USD,0.8970
+MIL Franklin Biotechnology Discovery Fund,2022-05-31,USD,0.8710
+MIL Franklin Biotechnology Discovery Fund,2022-06-01,USD,0.8610
+MIL Franklin Biotechnology Discovery Fund,2022-06-02,USD,0.8660
+MIL Franklin Biotechnology Discovery Fund,2022-06-06,USD,0.8570
+MIL Franklin Biotechnology Discovery Fund,2022-06-07,USD,0.8840
+MIL Franklin Biotechnology Discovery Fund,2022-06-08,USD,0.8880
+MIL Franklin Biotechnology Discovery Fund,2022-06-09,USD,0.8580
+MIL Franklin Biotechnology Discovery Fund,2022-06-10,USD,0.8350
+MIL Franklin Biotechnology Discovery Fund,2022-06-13,USD,0.8100
+MIL Franklin Biotechnology Discovery Fund,2022-06-14,USD,0.8130
+MIL Franklin Biotechnology Discovery Fund,2022-06-15,USD,0.8310
+MIL Franklin Biotechnology Discovery Fund,2022-06-16,USD,0.8120
+MIL Franklin Biotechnology Discovery Fund,2022-06-17,USD,0.8440
+MIL Franklin Biotechnology Discovery Fund,2022-06-20,USD,0.8510
+MIL Franklin Biotechnology Discovery Fund,2022-06-21,USD,0.8660
+MIL Franklin Biotechnology Discovery Fund,2022-06-22,USD,0.8710
+MIL Franklin Biotechnology Discovery Fund,2022-06-23,USD,0.9020
+MIL Franklin Biotechnology Discovery Fund,2022-06-24,USD,0.9150
+MIL Franklin Biotechnology Discovery Fund,2022-06-27,USD,0.9180
+MIL Franklin Biotechnology Discovery Fund,2022-06-28,USD,0.9000
+MIL Franklin Biotechnology Discovery Fund,2022-06-29,USD,0.9090
+MIL Franklin Biotechnology Discovery Fund,2022-06-30,USD,0.9000
+MIL Franklin Biotechnology Discovery Fund,2022-07-04,USD,0.9130
+MIL Franklin Biotechnology Discovery Fund,2022-07-05,USD,0.9310
+MIL Franklin Biotechnology Discovery Fund,2022-07-06,USD,0.9310
+MIL Franklin Biotechnology Discovery Fund,2022-07-07,USD,0.9480
+MIL Franklin Biotechnology Discovery Fund,2022-07-08,USD,0.9530
+MIL Franklin Biotechnology Discovery Fund,2022-07-11,USD,0.9360
+MIL Franklin Biotechnology Discovery Fund,2022-07-12,USD,0.9320
+MIL Franklin Biotechnology Discovery Fund,2022-07-13,USD,0.9340
+MIL Franklin Biotechnology Discovery Fund,2022-07-14,USD,0.9250
+MIL Franklin Biotechnology Discovery Fund,2022-07-15,USD,0.9390
+MIL Franklin Biotechnology Discovery Fund,2022-07-18,USD,0.9170
+MIL Franklin Biotechnology Discovery Fund,2022-07-19,USD,0.9410
+MIL Franklin Biotechnology Discovery Fund,2022-07-20,USD,0.9410
+MIL Franklin Biotechnology Discovery Fund,2022-07-21,USD,0.9440
+MIL Franklin Biotechnology Discovery Fund,2022-07-22,USD,0.9230
+MIL Franklin Biotechnology Discovery Fund,2022-07-25,USD,0.9230
+MIL Franklin Biotechnology Discovery Fund,2022-07-26,USD,0.9250
+MIL Franklin Biotechnology Discovery Fund,2022-07-27,USD,0.9340
+MIL Franklin Biotechnology Discovery Fund,2022-07-28,USD,0.9300
+MIL Franklin Biotechnology Discovery Fund,2022-07-29,USD,0.9230
+MIL Franklin Biotechnology Discovery Fund,2022-08-01,USD,0.9060
+MIL Franklin Biotechnology Discovery Fund,2022-08-02,USD,0.9190
+MIL Franklin Biotechnology Discovery Fund,2022-08-03,USD,0.9310
+MIL Franklin Biotechnology Discovery Fund,2022-08-04,USD,0.9510
+MIL Franklin Biotechnology Discovery Fund,2022-08-05,USD,0.9790
+MIL Franklin Biotechnology Discovery Fund,2022-08-08,USD,0.9880
+MIL Franklin Biotechnology Discovery Fund,2022-08-09,USD,0.9750
+MIL Franklin Biotechnology Discovery Fund,2022-08-10,USD,0.9940

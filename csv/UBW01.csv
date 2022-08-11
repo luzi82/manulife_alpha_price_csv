@@ -1,16 +1,123 @@
-Name of Investment Choice,Date,Currency,Purchase Price,Unit Sell Price
-MIL BlackRock World Technology Fund +,2022/02/10,USD,1.0000,1.0000
-MIL BlackRock World Technology Fund +,2022/02/11,USD,1.0000,1.0000
-MIL BlackRock World Technology Fund +,2022/02/14,USD,1.0000,1.0000
-MIL BlackRock World Technology Fund +,2022/02/15,USD,1.0000,1.0000
-MIL BlackRock World Technology Fund +,2022/02/16,USD,0.9980,0.9980
-MIL BlackRock World Technology Fund +,2022/02/17,USD,0.9910,0.9910
-MIL BlackRock World Technology Fund +,2022/02/18,USD,0.9860,0.9860
-MIL BlackRock World Technology Fund +,2022/02/21,USD,0.9810,0.9810
-MIL BlackRock World Technology Fund +,2022/02/22,USD,0.9830,0.9830
-MIL BlackRock World Technology Fund +,2022/02/23,USD,0.9760,0.9760
-MIL BlackRock World Technology Fund +,2022/02/24,USD,0.9360,0.9360
-MIL BlackRock World Technology Fund +,2022/02/25,USD,0.9710,0.9710
-MIL BlackRock World Technology Fund +,2022/02/28,USD,0.9840,0.9840
-MIL BlackRock World Technology Fund +,2022/03/01,USD,0.9860,0.9860
-MIL BlackRock World Technology Fund +,2022/03/02,USD,0.9760,0.9760
+Investment choice name,Date,Currency,NAV / unit
+MIL BlackRock World Technology Fund,2022-02-10,USD,1.0000
+MIL BlackRock World Technology Fund,2022-02-11,USD,1.0000
+MIL BlackRock World Technology Fund,2022-02-14,USD,1.0000
+MIL BlackRock World Technology Fund,2022-02-15,USD,1.0000
+MIL BlackRock World Technology Fund,2022-02-16,USD,0.9980
+MIL BlackRock World Technology Fund,2022-02-17,USD,0.9910
+MIL BlackRock World Technology Fund,2022-02-18,USD,0.9860
+MIL BlackRock World Technology Fund,2022-02-21,USD,0.9810
+MIL BlackRock World Technology Fund,2022-02-22,USD,0.9830
+MIL BlackRock World Technology Fund,2022-02-23,USD,0.9760
+MIL BlackRock World Technology Fund,2022-02-24,USD,0.9360
+MIL BlackRock World Technology Fund,2022-02-25,USD,0.9710
+MIL BlackRock World Technology Fund,2022-02-28,USD,0.9840
+MIL BlackRock World Technology Fund,2022-03-01,USD,0.9860
+MIL BlackRock World Technology Fund,2022-03-02,USD,0.9760
+MIL BlackRock World Technology Fund,2022-03-03,USD,0.9800
+MIL BlackRock World Technology Fund,2022-03-04,USD,0.9520
+MIL BlackRock World Technology Fund,2022-03-07,USD,0.9240
+MIL BlackRock World Technology Fund,2022-03-08,USD,0.8910
+MIL BlackRock World Technology Fund,2022-03-09,USD,0.9220
+MIL BlackRock World Technology Fund,2022-03-10,USD,0.9260
+MIL BlackRock World Technology Fund,2022-03-11,USD,0.9210
+MIL BlackRock World Technology Fund,2022-03-14,USD,0.9060
+MIL BlackRock World Technology Fund,2022-03-15,USD,0.9020
+MIL BlackRock World Technology Fund,2022-03-16,USD,0.9410
+MIL BlackRock World Technology Fund,2022-03-17,USD,0.9480
+MIL BlackRock World Technology Fund,2022-03-18,USD,0.9710
+MIL BlackRock World Technology Fund,2022-03-21,USD,0.9740
+MIL BlackRock World Technology Fund,2022-03-22,USD,0.9930
+MIL BlackRock World Technology Fund,2022-03-23,USD,0.9880
+MIL BlackRock World Technology Fund,2022-03-24,USD,0.9830
+MIL BlackRock World Technology Fund,2022-03-25,USD,0.9940
+MIL BlackRock World Technology Fund,2022-03-28,USD,1.0020
+MIL BlackRock World Technology Fund,2022-03-29,USD,1.0220
+MIL BlackRock World Technology Fund,2022-03-30,USD,1.0230
+MIL BlackRock World Technology Fund,2022-03-31,USD,1.0060
+MIL BlackRock World Technology Fund,2022-04-01,USD,0.9970
+MIL BlackRock World Technology Fund,2022-04-04,USD,1.0100
+MIL BlackRock World Technology Fund,2022-04-06,USD,0.9590
+MIL BlackRock World Technology Fund,2022-04-07,USD,0.9650
+MIL BlackRock World Technology Fund,2022-04-08,USD,0.9440
+MIL BlackRock World Technology Fund,2022-04-11,USD,0.9300
+MIL BlackRock World Technology Fund,2022-04-12,USD,0.9430
+MIL BlackRock World Technology Fund,2022-04-13,USD,0.9280
+MIL BlackRock World Technology Fund,2022-04-14,USD,0.9330
+MIL BlackRock World Technology Fund,2022-04-19,USD,0.9230
+MIL BlackRock World Technology Fund,2022-04-20,USD,0.9310
+MIL BlackRock World Technology Fund,2022-04-21,USD,0.9340
+MIL BlackRock World Technology Fund,2022-04-22,USD,0.8990
+MIL BlackRock World Technology Fund,2022-04-25,USD,0.8760
+MIL BlackRock World Technology Fund,2022-04-26,USD,0.8740
+MIL BlackRock World Technology Fund,2022-04-27,USD,0.8710
+MIL BlackRock World Technology Fund,2022-04-28,USD,0.8680
+MIL BlackRock World Technology Fund,2022-04-29,USD,0.8950
+MIL BlackRock World Technology Fund,2022-05-03,USD,0.8750
+MIL BlackRock World Technology Fund,2022-05-04,USD,0.8640
+MIL BlackRock World Technology Fund,2022-05-05,USD,0.8730
+MIL BlackRock World Technology Fund,2022-05-06,USD,0.8260
+MIL BlackRock World Technology Fund,2022-05-10,USD,0.8090
+MIL BlackRock World Technology Fund,2022-05-11,USD,0.8060
+MIL BlackRock World Technology Fund,2022-05-12,USD,0.7640
+MIL BlackRock World Technology Fund,2022-05-13,USD,0.8040
+MIL BlackRock World Technology Fund,2022-05-16,USD,0.8040
+MIL BlackRock World Technology Fund,2022-05-17,USD,0.8150
+MIL BlackRock World Technology Fund,2022-05-18,USD,0.8100
+MIL BlackRock World Technology Fund,2022-05-19,USD,0.7880
+MIL BlackRock World Technology Fund,2022-05-20,USD,0.8000
+MIL BlackRock World Technology Fund,2022-05-23,USD,0.7900
+MIL BlackRock World Technology Fund,2022-05-24,USD,0.7720
+MIL BlackRock World Technology Fund,2022-05-25,USD,0.7770
+MIL BlackRock World Technology Fund,2022-05-26,USD,0.7770
+MIL BlackRock World Technology Fund,2022-05-27,USD,0.8290
+MIL BlackRock World Technology Fund,2022-05-30,USD,0.8410
+MIL BlackRock World Technology Fund,2022-05-31,USD,0.8310
+MIL BlackRock World Technology Fund,2022-06-01,USD,0.8440
+MIL BlackRock World Technology Fund,2022-06-02,USD,0.8330
+MIL BlackRock World Technology Fund,2022-06-06,USD,0.8330
+MIL BlackRock World Technology Fund,2022-06-07,USD,0.8340
+MIL BlackRock World Technology Fund,2022-06-08,USD,0.8510
+MIL BlackRock World Technology Fund,2022-06-09,USD,0.8400
+MIL BlackRock World Technology Fund,2022-06-10,USD,0.8010
+MIL BlackRock World Technology Fund,2022-06-13,USD,0.7600
+MIL BlackRock World Technology Fund,2022-06-14,USD,0.7540
+MIL BlackRock World Technology Fund,2022-06-15,USD,0.7570
+MIL BlackRock World Technology Fund,2022-06-16,USD,0.7400
+MIL BlackRock World Technology Fund,2022-06-17,USD,0.7390
+MIL BlackRock World Technology Fund,2022-06-20,USD,0.7400
+MIL BlackRock World Technology Fund,2022-06-21,USD,0.7620
+MIL BlackRock World Technology Fund,2022-06-22,USD,0.7570
+MIL BlackRock World Technology Fund,2022-06-23,USD,0.7570
+MIL BlackRock World Technology Fund,2022-06-24,USD,0.7890
+MIL BlackRock World Technology Fund,2022-06-27,USD,0.7950
+MIL BlackRock World Technology Fund,2022-06-28,USD,0.7960
+MIL BlackRock World Technology Fund,2022-06-29,USD,0.7660
+MIL BlackRock World Technology Fund,2022-06-30,USD,0.7410
+MIL BlackRock World Technology Fund,2022-07-04,USD,0.7490
+MIL BlackRock World Technology Fund,2022-07-05,USD,0.7390
+MIL BlackRock World Technology Fund,2022-07-06,USD,0.7670
+MIL BlackRock World Technology Fund,2022-07-07,USD,0.7800
+MIL BlackRock World Technology Fund,2022-07-08,USD,0.7770
+MIL BlackRock World Technology Fund,2022-07-11,USD,0.7690
+MIL BlackRock World Technology Fund,2022-07-12,USD,0.7600
+MIL BlackRock World Technology Fund,2022-07-13,USD,0.7510
+MIL BlackRock World Technology Fund,2022-07-14,USD,0.7470
+MIL BlackRock World Technology Fund,2022-07-15,USD,0.7640
+MIL BlackRock World Technology Fund,2022-07-18,USD,0.7860
+MIL BlackRock World Technology Fund,2022-07-19,USD,0.7790
+MIL BlackRock World Technology Fund,2022-07-20,USD,0.7970
+MIL BlackRock World Technology Fund,2022-07-21,USD,0.8150
+MIL BlackRock World Technology Fund,2022-07-22,USD,0.8190
+MIL BlackRock World Technology Fund,2022-07-25,USD,0.8050
+MIL BlackRock World Technology Fund,2022-07-26,USD,0.7930
+MIL BlackRock World Technology Fund,2022-07-27,USD,0.8040
+MIL BlackRock World Technology Fund,2022-07-28,USD,0.8120
+MIL BlackRock World Technology Fund,2022-07-29,USD,0.8350
+MIL BlackRock World Technology Fund,2022-08-01,USD,0.8420
+MIL BlackRock World Technology Fund,2022-08-02,USD,0.8400
+MIL BlackRock World Technology Fund,2022-08-03,USD,0.8560
+MIL BlackRock World Technology Fund,2022-08-04,USD,0.8720
+MIL BlackRock World Technology Fund,2022-08-05,USD,0.8670
+MIL BlackRock World Technology Fund,2022-08-08,USD,0.8800
+MIL BlackRock World Technology Fund,2022-08-09,USD,0.8540
